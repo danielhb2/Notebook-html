@@ -130,10 +130,8 @@ The ☀️/🌙 button toggles dark/light theme. Preference is saved.
 ---
 ## Authorship
 
-- Concept, original idea, feature definition, iterative direction of development,
-  testing and aesthetic criteria: Daniel Horacio Braga
-- Code writing (HTML, CSS, JavaScript) through AI-assisted development
-  conversations: Claude (Anthropic) — https://www.anthropic.com
+- Concept, original idea, feature definition, iterative direction of development, testing and aesthetic criteria: Daniel Horacio Braga
+- Code writing (HTML, CSS, JavaScript) through AI-assisted development conversations: Claude (Anthropic) — https://www.anthropic.com
 
 ---
 ## License

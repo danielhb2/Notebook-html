@@ -128,10 +128,8 @@ El botón ☀️/🌙 alterna tema oscuro/claro. La preferencia se guarda.
 ---
 ## Autoría
 
-- Concepción, idea original, definición de funcionalidades, dirección
-  iterativa del desarrollo, pruebas y criterio estético: Daniel Horacio Braga
-- Escritura del código (HTML, CSS, JavaScript) mediante conversaciones
-  de desarrollo asistido por IA: Claude (Anthropic) — https://www.anthropic.com
+- Concepción, idea original, definición de funcionalidades, dirección iterativa del desarrollo, pruebas y criterio estético: Daniel Horacio Braga
+- Escritura del código (HTML, CSS, JavaScript) mediante conversaciones de desarrollo asistido por IA: Claude (Anthropic) — https://www.anthropic.com
 
 ---
 ## Licencia
