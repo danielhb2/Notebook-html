@@ -5,7 +5,7 @@ Sistema de gestión de notas con libretas virtuales, editor Markdown, etiquetas,
 
 Sin backend para facilitar el uso y la portabilidad, guarda los datos en el localStorage del navegador, pudiendo exportar todo el contenido a un archivo .json con fecha y hora en el nombre del archivo.
 
-El sistema consta sólo de dos archivos: `notebook.html` y `marked.min.js`. Se incluye una copia local de `marked.min.js` para poder renderizar Markdown sin necesidad de conexión a internet.
+El sistema consta sólo de dos archivos: `index.html` y `marked.min.js`. Se incluye una copia local de `marked.min.js` para poder renderizar Markdown sin necesidad de conexión a internet.
 
 ## Versiones disponibles
 

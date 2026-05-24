@@ -5,7 +5,7 @@ Note management system with virtual notebooks, Markdown editor, tags, global sea
 
 Without a backend for ease of use and portability, it saves data to the browser's localStorage, allowing you to export all content to a .json file with the date and time embedded in the filename.
 
-The system consists of only two files: `notebook.html` and `marked.min.js`. A local copy of `marked.min.js` is included to enable rendering Markdown without an internet connection.
+The system consists of only two files: `index.html` and `marked.min.js`. A local copy of `marked.min.js` is included to enable rendering Markdown without an internet connection.
 
 ## Available versions
 
